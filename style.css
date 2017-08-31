@@ -1,0 +1,23 @@
+.green{
+	color:green;
+	font-weight: bold;
+}
+.container h1{
+	text-align: center;
+}
+.container p{
+	text-align:center;
+	font-size:25px;
+}
+.input-number{
+	width: 70%;
+    padding: 5px;
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+}
+
+.button-group{
+	margin: 0 auto;
+    padding: 0 48px;
+}
